@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    border: black 3px solid;
+    
+}
+h1{
+    color: black;
+    text-align: center;  
+}
+h2{
+    color: black;
+    
+}
+h3{
+    color: black;
+    text-align: center;
+}
+P{
+    color: black;
+    line-height: 1.6em;
+    font-size: 20px  ;
+}
+.Container{
+    width: 80%;
+    margin: auto;
+}
